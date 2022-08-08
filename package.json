@@ -1,0 +1,18 @@
+{
+  "name": "com.greenbamboogames.saveplaymodechanges",
+  "version": "1.0.0",
+  "displayName": "SavePlayModeChanges!",
+  "description": "Save play mode changes.",
+  "unity": "2019.4",
+  "documentationUrl": "https://github.com/SolarianZ/UnitySavePlayModeChangesTool",
+  "changelogUrl": "",
+  "licensesUrl": "https://github.com/SolarianZ/UnitySavePlayModeChangesTool/blob/main/LICENSE",
+  "keywords": [],
+  "author": {
+    "name": "GBG",
+    "email": "vdergow@hotmail.com",
+    "url": ""
+  },
+  "type": "tool",
+  "hideInEditor": false
+}

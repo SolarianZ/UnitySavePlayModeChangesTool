@@ -1,0 +1,14 @@
+{
+    "name": "GBG.SavePlayModeChanges.EditorRuntime",
+    "rootNamespace": "GBG.SavePlayModeChanges",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

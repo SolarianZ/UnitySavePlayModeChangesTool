@@ -1,16 +1,18 @@
-Unity Save Play Mode Changes Tool.
+# Unity Save Play Mode Changes Tool.
 
-**Supported Unity Version**:
+![Save Play Mode Changes](./Documents/imgs/img_sample_save_play_mode_changes.png)
 
-Unity 2019.4 and above.
+## Supported Unity Version
 
-**How to use:**
+Unity 2019.4 and later.
+
+## How to use
 
 Add `SavePlayModeChanges` component to any game object in scene, then drag the component you want to save to `SavePlayModeChanges.ComponentsToSave` list.
 
 Enter play mode and modify any properties on the component you want to save, then exit play mode, all changes of **supported** properties will be saved.
 
-**Limitations:**
+## Limitations
 
 Editor use only.
 

@@ -2,6 +2,8 @@
 
 ![Save Play Mode Changes](./Documents/imgs/img_sample_save_play_mode_changes.png)
 
+[中文](./README_CN.md)
+
 ## Supported Unity Version
 
 Unity 2019.4 and later.

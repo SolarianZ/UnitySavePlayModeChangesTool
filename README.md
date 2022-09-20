@@ -18,4 +18,4 @@ Enter play mode and modify any properties on the component you want to save, the
 
 Editor use only.
 
-Support **most** of the fields in custom MonoBehaviours and **a few** properties in Unity's original Behaviours.
+Only support **serialized managed** properties.

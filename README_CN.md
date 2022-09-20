@@ -18,4 +18,4 @@ Unity 2019.4 或更新版本。
 
 仅能在Editor中使用。
 
-支持自定义MonoBehaviour中的 **大部分** 属性，支持 **少量** Unity内置Behaviour的属性。
+仅支持 **可序列化 托管** 属性。
